@@ -1,0 +1,11 @@
+{
+  "name": "aguia-edition",
+  "version": "0.1.0",
+  "description": "Editor de vídeo estilo Premiere com IA integrada (Video-Use + HyperFrames)",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/smoke.js"
+  },
+  "engines": { "node": ">=22" }
+}
